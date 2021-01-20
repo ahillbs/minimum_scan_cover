@@ -1,0 +1,4 @@
+name: SecondBatchTE08012021
+solvers: [AngularIteratedMinSumSolver, AngularSimulatedAnnealingMinSumSolver, AngularGeneticMinSumSolver, AngularDependencySolver, AngularGraphScanMinSumHamilton]
+solvers-args: [{}, {}, {}, {}, {}]
+url-path: angular.db

@@ -1,0 +1,4 @@
+name: SecondBatchMSC14012021
+solvers: [AngularIteratedMakespanSolver, AngularSimulatedAnnealingMakespanSolver, AngularGeneticMakespanSolver]
+solvers-args: [{}, {}, {}]
+url-path: angular.db

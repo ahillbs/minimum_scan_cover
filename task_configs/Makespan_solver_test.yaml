@@ -1,0 +1,3 @@
+solvers: [AngularMakespanGreedySolver, MscColoringSolver, AngularGraphScanMakespanHamilton, AngularGraphScanMakespanAbsolute, AngularGraphScanMakespanAbsoluteReduced, ConstraintAbsSolver, AngularGeneticMakespanSolver, AngularIteratedMakespanSolver, AngularSimulatedAnnealingMakespanSolver]
+solvers-args: [{}, {}, {}, {}, {}, {}, {}, {}, {}]
+url-path: angular.db

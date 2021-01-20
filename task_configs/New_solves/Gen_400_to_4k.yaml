@@ -1,0 +1,11 @@
+name: 400To4000GeneralEdgesGeneration
+min-n: 25
+max-n: 100
+steps-n: 3
+edge-min: 0.2
+edge-max: 0.8
+edge-step: 0.1
+min-m: 400
+max-m: 4000
+repetitions: 1
+url-path: angular.db

@@ -1,0 +1,3 @@
+solvers: [AngularLocalMinSumGreedySolver, AngularDependencyLocalMinSumSolver, AngularGraphScanLocalMinSumHamilton, AngularIteratedLocalMinSumSolver, AngularSimulatedAnnealingLocalMinSumSolver, AngularGeneticLocalMinSumSolver, ConstraintDependencyLocalMinSumSolver]
+solvers-args: [{}, {}, {}, {}, {}, {}, {}]
+url-path: angular.db

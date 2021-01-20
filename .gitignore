@@ -1,0 +1,6 @@
+*.log
+.vscode/
+__pycache__/
+.pytest_cache/
+*.json
+angular_*.db

@@ -1,0 +1,4 @@
+name: FirstBatchTE08012021
+solvers: [AngularMinSumGreedySolver, MscColoringSolver, ConstraintDependencySolver]
+solvers-args: [{}, {"sub_solver": "AngularBipartiteMinSumSolver"}, {}]
+url-path: angular.db
