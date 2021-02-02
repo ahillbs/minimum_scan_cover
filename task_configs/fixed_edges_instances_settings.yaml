@@ -1,8 +1,0 @@
-name: 100To200FixedEdgesGeneration
-min-n: 15
-max-n: 27
-edge-min: 100
-edge-max: 200
-max-amount: 100
-#seed: 0
-url-path: angular.db

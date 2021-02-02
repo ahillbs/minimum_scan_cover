@@ -1,4 +1,0 @@
-name: FirstBatchBE08012021
-solvers: [AngularLocalMinSumGreedySolver, ConstraintDependencyLocalMinSumSolver]
-solvers-args: [{}, {}]
-url-path: angular.db

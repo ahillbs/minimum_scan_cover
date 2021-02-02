@@ -1,4 +1,0 @@
-name: SecondBatchMSC17122020
-solvers: [AngularGraphScanMakespanHamilton, AngularGraphScanMakespanAbsolute,  AngularIteratedMakespanSolver, AngularSimulatedAnnealingMakespanSolver]
-solvers-args: [{}, {}, {}, {}]
-url-path: angular.db

@@ -1,0 +1,9 @@
+mutation-func: mutate_vertex_edge_genomes
+selection-func: linear_rank_selection
+crossover-func: uniform_crossover
+fitness-func: AngularSolverFitness
+fitness-func-initargs: {'solver': 'AngularDependencyLocalMinSumSolver', 'maximize': 1, 'solver_params': {'TimeLimit': 900}, 'zero_fitness_non_optimal': 1}
+instance-creation-func: GraphGenomeCreator
+instance-creation-initargs: {'point_amount': 8, 'bounds': [0, 500]}
+url-path: angular.db
+name: localminsum_dep_max_runtime

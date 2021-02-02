@@ -1,4 +1,0 @@
-name: SecondBatchTE08012021
-solvers: [AngularIteratedLocalMinSumSolver, AngularSimulatedAnnealingLocalMinSumSolver, AngularGeneticLocalMinSumSolver, AngularDependencyLocalMinSumSolver, AngularGraphScanLocalMinSumHamilton]
-solvers-args: [{}, {}, {}, {}, {}]
-url-path: angular.db

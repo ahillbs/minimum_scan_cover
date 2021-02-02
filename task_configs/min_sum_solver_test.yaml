@@ -1,3 +1,0 @@
-solvers: [AngularMinSumGreedySolver, MscColoringSolver, AngularDependencySolver, AngularGraphScanMinSumHamilton, AngularIteratedMinSumSolver, AngularSimulatedAnnealingMinSumSolver, AngularGeneticMinSumSolver, ConstraintDependencySolver]
-solvers-args: [{}, {"sub_solver": "AngularBipartiteMinSumSolver"}, {}, {}, {}, {}, {}, {}]
-url-path: angular.db

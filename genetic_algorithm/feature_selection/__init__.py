@@ -1,1 +1,0 @@
-raise NotImplementedError("Please fill init before using feature selection")

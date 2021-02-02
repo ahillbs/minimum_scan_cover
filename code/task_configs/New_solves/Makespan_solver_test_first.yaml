@@ -1,0 +1,4 @@
+name: FirstBatchMSC14012021
+solvers: [AngularMakespanGreedySolver, MscColoringSolver, ConstraintAbsSolver]
+solvers-args: [{}, {}, {}]
+url-path: angular.db
